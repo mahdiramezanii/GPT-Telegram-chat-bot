@@ -8,7 +8,7 @@ OPEN_AI="*********************************************"
 
 
 
-openai.api_key ="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"
+openai.api_key ="***************************************"
 
 models = {
     "model1": {
