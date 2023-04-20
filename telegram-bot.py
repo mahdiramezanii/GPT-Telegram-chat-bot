@@ -1,9 +1,9 @@
 from telegram.ext import *
 import openai
 
-API_KEY="5811643044:AAEvlz-EeJBr20MvdXQkfoT2ChyTScEvH2U"
+API_KEY="*****************************************"
 
-OPEN_AI="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"
+OPEN_AI="*********************************************"
 
 
 
